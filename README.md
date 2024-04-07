@@ -40,3 +40,13 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 # Как подружить git с github под Windows 10.
 
 Вот видео инструкция https://youtu.be/E8cIjbJMEpE
+
+Здравствуйте. Я бы рекомендовала исправить некоторые ошибки:
+
+Вместо элимент - элемент
+
+решотка - решетка
+
+котроль - контроль
+
+Спасибо за интересную инструкцию!
